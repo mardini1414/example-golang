@@ -3,5 +3,10 @@
     "env": {
       "GO_BUILD_FLAGS": "-ldflags '-s -w'"
     }
+  },
+  "functions": {
+    "./main.go": {
+      "runtime": "go"
+    }
   }
 }
