@@ -5,7 +5,7 @@
     }
   },
   "functions": {
-    "./main.go": {
+    "api/main.go": {
       "runtime": "go"
     }
   }
